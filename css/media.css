@@ -16,7 +16,7 @@
 	}
 	.nav_bar_mobile{
 		position: fixed;
-		margin-left: 86vw;
+		margin-left: 88vw;
 		width: 10vw;
 		height: 10vh;
 		display:block;
@@ -30,7 +30,7 @@
 	}
 	.nav_bar_mobile> span {
 		display: block;
-		height: .8vh;
+		height: 5px;
 		background: #222;
 		opacity: 1;
 		left: 0;
@@ -106,9 +106,9 @@
 		color: white;
 		text-align: right;
 		padding-right: 10vw;
-		margin-right: 1vw;
+		margin-right: 2vw;
 		margin-top: 1vh;
-		font-size: 3.5vh;
+		font-size: 5vw;
 		pointer-events: initial;
 		line-height: 1.5;
 	}
@@ -515,9 +515,6 @@
 		margin: auto;
 		margin-top:-2vh;
 	}
-	.spec .item2:after, 
-	.spec .item2:before{
-	}
 	.spec .item2:after{
 		content: "";
 		display: block;
@@ -528,7 +525,7 @@
 		height: 0;
 		border-style: solid;
 		border-width: 6vh 18vw 0 18vw;
-		border-color: #08437f transparent transparent transparent;
+		border-color: #16599e transparent transparent transparent;
 	}
 	.spec .item2:before{
 		content: "";
@@ -605,11 +602,24 @@
 		transform: scale(.8);
 	}
 	/*===================navbar=================*/
+	.nav_bar .container .logo {
+    	margin: 0 0 0 -34vw;
+	}
 	.nav_bar .logo img{
 		width: 3.5vw;
 	}
 	.nav_bar .logo span{
-		font-size: 4vh;
+		font-size: 3vw;
+	}
+	.nav_bar .category {
+	    margin-right: -18vw;
+	}
+	.nav_bar .category span.highlight {
+    	font-size: 2vh;
+	}
+	.nav_bar .category span{
+		font-size: 2vh;
+		margin-left: 1vw;
 	}
 	/*==================banner================*/
 	.banner_search .seek_property input{
@@ -800,7 +810,7 @@
 		height: 0;
 		border-style: solid;
 		border-width: 8vh 16vw 0 16vw;
-		border-color: #08437f transparent transparent transparent;
+		border-color: #16599e transparent transparent transparent;
 	}
 	.spec .item2:before{
 		content: "";
@@ -825,7 +835,7 @@
 		height: 0;
 		border-style: solid;
 		border-width: 7vh 16vw 0 16vw;
-		border-color: #002244 transparent transparent transparent;
+		border-color: #06325f transparent transparent transparent;
 	}
 	.spec .item1:before,
 	.spec .item3:before{
@@ -861,6 +871,9 @@
 	.revi_item:before{ 
 		background-color: transparent;
 		outline: 1px solid #fff;
+	}
+	.cont .item_cel span{
+		font-size: 1.5vw;
 	}
 	/*================contact us=====================*/
 	.footer{

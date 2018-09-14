@@ -46,30 +46,30 @@
 }
 /*=============all css================*/
 .p1{
-	background: url(../image/kalen.jpg) no-repeat 100%/cover;
+	background: url(../image/banner.jpg) no-repeat 100%/cover;
 }
 .p2{
-	background: url(../image/mt-fuji-1346096_960_720.jpg) no-repeat center/cover;
+	background: url(../image/we_are_the_best_bg.jpg) no-repeat center/cover;
 }
 .p3{
-	background: url(../image/mountains.jpg) no-repeat center/cover;
+	background: url(../image/explore_banner.jpg) no-repeat center/cover;
 }
 .p4{
 	position: relative;
-	background: url(../image/snow2.jpg) no-repeat center/cover;
+	background: url(../image/ad_and_re_bg.jpg) no-repeat center/cover;
 }
 .p5{
-	background: url(../image/snow2.jpg) no-repeat center/cover;
+	background: url(../image/ad_and_re_bg.jpg) no-repeat center/cover;
 }
 .p6{
-	background: url(../image/banner_1.jpg) no-repeat center/cover;
+	background: url(../image/special_offer_bg.jpg) no-repeat center/cover;
 }
 .p7{
-	background-image: url(../image/ignasi_pattern_s.png);
+	background-image: url(../image/reviews_bg.png);
 	background-color: #fff;
 }
 .p8{
-	background: url(../image/contact.png) no-repeat;
+	background: url(../image/contact_bg.png) no-repeat;
 	background-size: cover;
 }
 *{
@@ -104,6 +104,9 @@ h3{
 ul{
 	list-style: none;
 }
+a{
+	cursor: pointer;
+}
 img{
 	height: 100%; 
 	width: 100%;
@@ -117,7 +120,7 @@ img{
 	transform: scale(1.2);
 }
 .fp-tableCell{
-	display:initial;
+	display: inline;
 }
 .disappear{
 	width:0;
@@ -127,7 +130,6 @@ img{
 	opacity:0;
 	transition: .5s;
 }
-
 .show_{
 	display: block;
 }
@@ -293,7 +295,7 @@ img{
 }
 .banner_search .seek_property img{
 	width: 90%;
-	height: 24vh;
+	height: 90%;
 }
 .minor_property{
 	padding-bottom: 5vh; 
@@ -328,7 +330,7 @@ img{
 	font-size: 2vh;
 }
 .minor_property .search_button a:after{
-	content: url(../image/11.png);
+	content: url(../image/magnifier.png);
 	padding-left: 10px;
 	vertical-align: middle;
 }
@@ -436,6 +438,7 @@ img{
 	position: absolute;
 	bottom: 0;
    	left: -1vw;
+   	z-index: 1;
 }
 /*================adventure=================*/
 .adv h1:after{
@@ -683,10 +686,21 @@ img{
 	font-weight: 600;
 }
 .pop .close{
-	position: absolute;
-	top: .2vh;
-	right: .2vw;
-	cursor:url(../image/minus.png), auto;
+	width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 1.2vh;
+    right: .2vw;
+    cursor: url(../image/minus.png), auto;
+}
+.pop .close img{
+	width: 80%;
+	height: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -40%;
+    margin-left: -40%;
 }
 /*==================popup21===================*/
 .pop21{
@@ -946,8 +960,10 @@ img{
 	color: #DE2639;
 }
 .pop2 .item input{
-	height: 3vh;
+	font-family: Constantia,"Times New Roman",Arial;
 	width: 30%;
+    height: 3vh;
+    padding-left: 5px;
 }
 .pop2 .check input{
 	display: block;
@@ -958,6 +974,10 @@ img{
 	width: 90%;	
 	float: left;
 	margin: -.1vh auto auto 1vw;
+}
+.pop2 .check p a{
+	text-decoration: underline;
+    color: #001dff;
 }
 .pop2 .button a{
 	display: block;
@@ -1098,8 +1118,10 @@ img{
 	font-weight: 100;
 }
 .pop3 .item input{
-	height: 3vh;
+	font-family: Constantia,"Times New Roman",Arial;
 	width: 30%;
+	height: 3vh;
+	padding-left: 5px;
 }
 .pop3 .button a{
 	display: block;
@@ -1342,7 +1364,7 @@ img{
 .spec .item1{
 	transform: scale(.9);
 	margin-left: 2vw; 
-	background-color: #002244;
+	background-color: #06325f;
 	color: #eee;
 }
 .spec .item2{
@@ -1350,14 +1372,14 @@ img{
 	padding: 0 2vw 3vh 2vw;
 	position: relative;
 	z-index: 4;
-	background-color: #08437f;
+	background-color: #16599e;
 	color: #fff;
 	border: 2px solid #fff;
 }
 .spec .item3{
 	transform: scale(.9);
 	margin-left: -2vw; 
-	background-color: #002244;
+	background-color: #06325f;
 	color: #eee;
 }
 .spec .item2:after{
@@ -1370,7 +1392,7 @@ img{
 	height: 0;
 	border-style: solid;
 	border-width: 8vh 12vw 0 12vw;
-	border-color: #08437f transparent transparent transparent;
+	border-color: #16599e transparent transparent transparent;
 }
 .spec .item2:before{
 	content: "";
@@ -1395,7 +1417,7 @@ img{
 	height: 0;
 	border-style: solid;
 	border-width: 7vh 12vw 0 12vw;
-	border-color: #002244 transparent transparent transparent;
+	border-color: #06325f transparent transparent transparent;
 }
 .spec .item1:before,
 .spec .item3:before{
@@ -1438,14 +1460,14 @@ img{
 	content: "Wingsuit";
 	display: block;
 	width: 10vw;
-	height: 10vh;
+	height: 13vh;
 	background-color: transparent;
 	transform: scale(0) rotate(-180deg);
 	transition: all .3s ease-in;
 	position: relative;
 	padding: 2vw;
 	padding-top: 2vh;
-	top: 46vh;
+	top: 5px;
 	left: calc(50% - 7vw);
 	border-radius: 10px;
 	z-index: 12;
@@ -1465,7 +1487,7 @@ img{
 	padding: 2vw;
 	padding-top: 8.5vh;
 	padding-bottom: 3vh;
-	top: 45vh;
+	top: 5px;
 	left: calc(50% - 8vw);
 	border-radius: 10px;
 	color: #eee;
@@ -1479,14 +1501,26 @@ img{
 .revi_item:hover:after{ 
 	transform: scale(1) rotate(0deg);
 }
+.review .revi_item2:before{
+	content: "Zip Line";
+}
+.review .revi_item3:before{
+	content: "Slackline";
+}
+.review .revi_item4:before{
+	content: "Skiing";
+}
 .review .revi_item2:after{
+	content: "A zip-line consists of a pulley suspended on a cable, usually made of stainless steel, mounted on a slope.";
 	background-color: rgba(213,16,16,0.8);
 }
 .review .revi_item3:after{
+	content: "Slacklining refers to the act of walking or balancing along a suspended length of flat webbing that is tensioned between two anchors. Slacklining is similar to slack rope walking and tightrope walking."
 	background-color: rgba(10,55,178,0.8);
 }
 .review .revi_item4:after{
-	background-color: rgba(226,116,13,.8);
+	content: "Skiing can be a means of transport, a recreational activity in which the participant uses skis to glide on snow.";
+	background-color: rgba(226,116,13,0.8);
 }							  
 .revi_item:hover img{ 
 	filter: blur(5px);
@@ -1494,7 +1528,7 @@ img{
 }		
 /*===============contact us=================*/
 .cont h1{
-	color:#fcfbfb;
+	color: #fcfbfb;
 	text-shadow: 1px 1px 1px #000;
 }
 .cont h1:after{
@@ -1507,8 +1541,8 @@ img{
 	text-align: center;
 }
 .cont_clear{
-	float:none;
-	margin:auto;
+	float: none;
+	margin: auto;
 	padding: 0;
 }
 .cont .item_cel{
@@ -1529,18 +1563,18 @@ img{
     height: 100%;
 }
 .cont .img img{
-	width: initial;
+	width: auto;
 	display: inline-block;
 	vertical-align: middle;
 }
 .cont .text{
-	height:7vh;
+	height: 7vh;
 }
 .cont .item_cel span{
 	font-family: "Lucida Sans Unicode";
 }
 .cont .item_mail a{
-	color:#000;
+	color: #000;
 }
 .cont .item_gp{
 	margin-bottom: 3vh;
@@ -1553,6 +1587,7 @@ img{
 	height: .1vh;
 	background-color: #fff;
 	margin-left: -5%;
+	margin-top: 3%;
 }
 .cont .item_inputl{
 	width: 30vw;
@@ -1578,15 +1613,16 @@ img{
 	padding: 0;
 }
 .cont .item_inputl input{
-	width: 90%;
+	width: calc(90% - 10px);
 	height: 5vh;
+	padding-left: 10px;
 	font-size: 1.5vh;
 }
 .cont .item_inputr input{
-	width: 90%;
-	height: 3vh;
-	padding-bottom: 12vh;
-	font-size: 1.5vh;
+	width: calc(90% - 10px);
+    height: calc(2.5vh - 7px);
+    padding: 7px 0 12vh 10px;
+    font-size: 1.5vh;
 }
 .cont .send_button{
 	padding: 0;
