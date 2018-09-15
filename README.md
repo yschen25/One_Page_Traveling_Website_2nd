@@ -24,7 +24,16 @@ Compared to the multipage website design, <b>one/single</b> page website making 
 * **Project manager : [ME](https://github.com/yschen25)**
 
         The whole web struture and function
-        
+<br/>
+
+## Website Planning
+
+[Website Planning](https://tinyurl.com/y7lkxdmo)
+<br/>
+Introducing the website concept, logo design, fonts and colors settings, structure, PC and mobile wireframes, PC and mobile website screenshots, references.
+<br/>
+<br/>
+
 ## Demo
 
 <p align="center">
