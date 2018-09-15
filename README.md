@@ -46,5 +46,18 @@ The poster design for the website, use irregular shapes to express the unlimited
 </p>
 <br/>
 
+## Update
+
+* **2018.09.14**
+
+         * Adding meta tags
+         * Resizing, reducing and deleting the pics
+         * Optimizing user interface
+         * Optimizing RWD
+         * Fixing an image doesn't show in IE
+         * Sorting out html, css, js
+         
+<br/>
+
 ## Demo Editor Tools
 Using [ScreenToGif](http://www.screentogif.com/) to record 'n' [ezGIF](https://ezgif.com/) to edit.
