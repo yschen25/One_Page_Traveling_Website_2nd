@@ -5,9 +5,9 @@ Based on the [Project_1st](https://github.com/yschen25/Project_1st), to optimize
 ## Description
 
 <p>         
-According to the increment of smartphone usage rates, this website is design to be a <b>one/single page</b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
+According to the increment of smartphone usage rates, this website is design to be a <b><i>one/single page</i></b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
 
-Compared to the multipage website design, <b>one/single</b> page website making the user experience more intuitive and smooth.
+Compared to the multipage website design, **_one/single page_** website making the user experience more intuitive and smooth.
 </p>
 <br/>
 
@@ -36,14 +36,21 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 
 ## Demo
 
+1. PC demo  
 <p align="center">
-   <img src="Second_Website.gif" alt="My_SecondWebsite" title="My_SecondWebsite" width="85%">
+   <img src="Second_Website.gif" alt="Project_2nd" title="Project_2nd" width="85%">
 </p>
 <br/>
 
-
+2. PC popup demo 
 <p align="center">
-   <img src="https://i.imgur.com/GixZte9.gif" alt="My_SecondWebsite" title="My_SecondWebsite" width="85%">
+   <img src="https://i.imgur.com/SCmTrP9.gif" alt="Project_2nd" title="Project_2nd" width="100%">
+</p>
+<br/>
+
+3. PC mobile demo 
+<p align="center">
+   <img src="https://i.imgur.com/P81uQdm.gif" alt="Project_2nd" title="Project_2nd" width="35%">
 </p>
 <br/>
 
@@ -69,4 +76,4 @@ The poster design for the website, use irregular shapes to express the unlimited
 <br/>
 
 ## Demo Editor Tools
-Using [ScreenToGif](http://www.screentogif.com/) to record 'n' [ezGIF](https://ezgif.com/) to edit.
+Using [ScreenToGif](http://www.screentogif.com/) to record and [ezGIF](https://ezgif.com/) to edit.
