@@ -48,7 +48,7 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 </p>
 <br/>
 
-3. PC mobile demo 
+3. Mobile demo 
 <p align="center">
    <img src="https://i.imgur.com/P81uQdm.gif" alt="Project_2nd_mobile" title="Project_2nd_mobile" width="35%">
 </p>
