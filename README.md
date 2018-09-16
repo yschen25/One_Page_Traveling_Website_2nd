@@ -1,6 +1,6 @@
 # Project_2nd
 
-Based on the [Project_1st](https://github.com/yschen25/Project_1st), to optimize the website user interface, user experience, animation, and add RWD.
+Based on the [Project_1st](https://github.com/yschen25/Project_1st) to optimize the website user interface, user experience, animation, and add RWD.
 
 ## Description
 
@@ -15,15 +15,15 @@ Compared to the multipage website design, **_one/single page_** website making t
 
 * **Programmer : [ME](https://github.com/yschen25)**
         
-        HTML、CSS、JavaScript、jQuery
+        * HTML、CSS、JavaScript、jQuery
          
 * **Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
-        Using Photoshop and Illustrator
+        * Using Photoshop and Illustrator
 
 * **Project manager : [ME](https://github.com/yschen25)**
 
-        The whole web struture and function
+        * The whole web struture and function
 <br/>
 
 ## Website Planning
@@ -38,19 +38,19 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 
 1. PC demo  
 <p align="center">
-   <img src="Second_Website.gif" alt="Project_2nd" title="Project_2nd" width="85%">
+   <img src="Project_2nd_01.gif" alt="Project_2nd_pc" title="Project_2nd_pc" width="85%">
 </p>
 <br/>
 
 2. PC popup demo 
 <p align="center">
-   <img src="https://i.imgur.com/SCmTrP9.gif" alt="Project_2nd" title="Project_2nd" width="100%">
+   <img src="https://i.imgur.com/SCmTrP9.gif" alt="Project_2nd_pc_popup" title="Project_2nd_pc_popup" width="95%">
 </p>
 <br/>
 
 3. PC mobile demo 
 <p align="center">
-   <img src="https://i.imgur.com/P81uQdm.gif" alt="Project_2nd" title="Project_2nd" width="35%">
+   <img src="https://i.imgur.com/P81uQdm.gif" alt="Project_2nd_mobile" title="Project_2nd_mobile" width="35%">
 </p>
 <br/>
 
@@ -76,4 +76,4 @@ The poster design for the website, use irregular shapes to express the unlimited
 <br/>
 
 ## Demo Editor Tools
-Using [ScreenToGif](http://www.screentogif.com/) to record and [ezGIF](https://ezgif.com/) to edit.
+Using [ScreenToGif](http://www.screentogif.com/) to record, [ezGIF](https://ezgif.com/) to edit and [imgur](https://imgur.com/) to upload gifs.
