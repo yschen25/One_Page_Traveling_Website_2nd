@@ -13,15 +13,15 @@ Compared to the multipage website design, **_one/single page_** website making t
 
 ## Aurthor
 
-* **Programmer : [ME](https://github.com/yschen25)**
+* **:octocat: Programmer : [ME](https://github.com/yschen25)**
         
         * HTML、CSS、JavaScript、jQuery
          
-* **Ui/Ux Designer : [ME](https://github.com/yschen25)**
+* **:octocat: Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
         * Using Photoshop and Illustrator
 
-* **Project manager : [ME](https://github.com/yschen25)**
+* **:octocat: Project Manager : [ME](https://github.com/yschen25)**
 
         * The whole web struture and function
 <br/>
