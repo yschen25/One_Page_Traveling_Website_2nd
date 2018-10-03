@@ -37,6 +37,7 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 ## Demo
 
 ### **[ONE PAGE TRAVELING WEBSITE](https://yschen25.github.io/One_Page_Traveling_Website_2nd/) -> Where You Can See This Website**
+<img src="image/QR_Code.png" alt="One_Page_Traveling_Website" title="One_Page_Traveling_Website" width="20%">
 <br/>
 <br/>
 <br/>
@@ -80,8 +81,13 @@ The poster design for the website, use irregular shapes to express the unlimited
 
 * **2018.10.03**
 
-         * Adding website link
+         * Adding website link and QR Code
          * Changing readme content and meta tags          
+<br/>
+
+## QR Code Generator
+Using [IOI QR Code Generator](https://qr.ioi.tw/zh/).
+<br/>
 <br/>
 
 ## Demo Editor Tools
