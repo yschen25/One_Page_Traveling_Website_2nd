@@ -1,6 +1,6 @@
 # One_Page_Traveling_Website_2nd
 
-Based on the [One_Page_Traveling_Website_1st](https://github.com/yschen25/One_Page_Traveling_Website_1st) to optimize the website user interface, user experience, animation, and add RWD.
+To optimize the website user interface, user experience, animation, and add RWD Based on the [One_Page_Traveling_Website_1st](https://github.com/yschen25/One_Page_Traveling_Website_1st).
 
 ## Description
 
